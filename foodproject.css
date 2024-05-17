@@ -1,0 +1,36 @@
+*{
+    font-family: 'Montserrat', sans-serif ;
+}
+.picture{
+    width: 60%;
+    justify-content: right;
+    margin-left: 20%;
+    margin-right: 5%;
+}
+section{
+    display:flex;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.title{
+    font-size: 56px;
+    font-weight: bold;
+    justify-content: left;
+}
+.flex{
+    padding-right: 0, 12px;
+    margin-left: 5%;
+}
+button{
+    background-color: #80b435;
+    color: #FFFFFF;
+    border: none;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-right: 40px;
+    padding-left: 40px;
+    border-radius: 4px;
+}
+#images{
+    width:90%;
+}
